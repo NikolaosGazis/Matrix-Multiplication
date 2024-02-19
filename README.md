@@ -1,1 +1,1 @@
-# Matrix-multiplication-unix
+# Matrix Multiplication Program in Unix based enviroment

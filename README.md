@@ -1,4 +1,4 @@
-# Matrix Multiplication Program in Unix based enviroment
+# Matrix Multiplication Program in Unix based Enviroment
 
 ## Overview
 A C program, created as a University project for the Operating Systems class, solves matrix multiplication using Inter-Process Communication (IPC) in a standard Unix-based system (Ubuntu).
@@ -12,5 +12,5 @@ within the acceptable range, and are non-zero positive integers. Furthermore, it
 Communication between processes is done by pipes such that each child process writes its result to a particular pipe, and the parent process reads from these pipes when drawing the final matrix. The parent process only prints the resulting matrices 
 and the product matrix when all the child processes have executed.
 
-## Licence 
+### Licence 
 This project is free under the [MIT License](https://github.com/NikolaosGazis/Matrix-Multiplication-In-Unix/tree/main?tab=MIT-1-ov-file).
